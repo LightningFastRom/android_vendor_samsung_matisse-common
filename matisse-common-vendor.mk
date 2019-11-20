@@ -49,7 +49,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/vendor/lib/E08QL_libTs_J_Accm.so:system/vendor/lib/E08QL_libTs_J_Accm.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/E08QL_libTs_J_Awb.so:system/vendor/lib/E08QL_libTs_J_Awb.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/hw/camera.vendor.msm8226.so:system/vendor/lib/hw/camera.vendor.msm8226.so \
-    vendor/samsung/matisse-common/proprietary/vendor/lib/sensors.vendor.msm8226.so:system/vendor/lib/sensors.vendor.msm8226.so \
+    vendor/samsung/matisse-common/proprietary/vendor/lib/hw/sensors.vendor.msm8226.so:system/vendor/lib/hw/sensors.vendor.msm8226.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libAfSingle.so:system/vendor/lib/libAfSingle.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libTsAe.so:system/vendor/lib/libTsAe.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libTsAf.so:system/vendor/lib/libTsAf.so \
