@@ -237,5 +237,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/system/vendor/lib/soundfx/libqcvirt.so:system/system/vendor/lib/soundfx/libqcvirt.so
 
 PRODUCT_PACKAGES += \
-    libtime_genoff \
     TimeService
